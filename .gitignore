@@ -132,4 +132,4 @@ dmypy.json
 *.bak
 
 #Database
-*.sqllite3
+*.sqlite3
